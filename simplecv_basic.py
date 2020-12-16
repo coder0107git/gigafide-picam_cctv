@@ -16,7 +16,7 @@ http://tinkernut.com/YtQH9
 from SimpleCV import *
 import py_gmailer
 
-#initialize the camer
+#initialize the camera
 cam = Camera()
 #set the max display size
 display = Display((800,600))
